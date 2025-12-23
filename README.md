@@ -1,5 +1,7 @@
 <div align="center">
-  <h2>Hi, I'm Ria ♫♬𓈒⠀</h2>
+  <p style="font-size:22px; font-weight:600;">
+    hi, i'm ria ♫♬𓈒⠀
+  </p>
 
   <p align="center">
     <img src="https://pixelsafari.neocities.org/dividers/bow/black.png" width="800" />
@@ -9,11 +11,6 @@
     i’m a software engineering student at the university of glasgow, learning by building
     web app side projects.
   </p>
-
-  <h2>
-    <img src="https://pixelsafari.neocities.org/favicon/object/tech/laptop4.gif" width="22" alt="tech" />
-    &nbsp;tech stack
-  </h2>
 
   <table style="table-layout: fixed; width: 700px; margin: 0 auto;">
     <tr>
