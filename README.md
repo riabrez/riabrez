@@ -1,32 +1,38 @@
 <div align="center">
-  <h2> Hi, I'm Ria! </h2>
+  <h2>Hi, I'm Ria!</h2>
 
-  <p align="center">
-    <img src="https://pixelsafari.neocities.org/dividers/bow/black.png" width="800" />
-  </p>
+  <img src="https://pixelsafari.neocities.org/dividers/bow/black.png" width="800" />
 
-  <p style="max-width: 720px; margin: 0 auto 22px auto; line-height: 1.6;">
+  <p style="max-width:720px; margin:18px auto;">
     I’m a software engineering student at the University of Glasgow, learning by building
-    web app side projects. 
+    web app side projects.
   </p>
 
-  <table style="table-layout: fixed; width: 700px; margin: 0 auto;">
+  <table style="table-layout: fixed; width: 700px; margin: 20px auto;">
     <tr>
-      <td align="center" valign="top" style="width:50%; padding: 12px 24px;">
+      <td align="center" style="width:50%; padding: 12px 24px;">
         <b>Programming Languages</b><br />
         Java · Python · C · C++
       </td>
-      <td align="center" valign="top" style="width:50%; padding: 12px 24px;">
+      <td align="center" style="width:50%; padding: 12px 24px;">
         <b>Frontend</b><br />
         React · Next.js · Tailwind · Typescript
       </td>
     </tr>
   </table>
 
+  <p style="margin-top:18px;">
+    <strong>Currently working on</strong> my portfolio and projects related to my interests.
+  </p>
+
+  <img src="https://pixelsafari.neocities.org/dividers/bow/black.png" width="800" />
+
+  <br />
+
   <img
-    src="https://pixelsafari.neocities.org/dividers/bow/black.png"
-    width="800"
-    alt="divider"
-    style="display:block; margin: 22px auto 8px auto;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riabrez&layout=compact&hide_border=true"
+    alt="Top Languages"
   />
 </div>
+
+
